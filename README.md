@@ -1,2 +1,2 @@
-# student-management-
+# student-management-system
 student project
